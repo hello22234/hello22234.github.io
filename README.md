@@ -1,5 +1,5 @@
 # Aryan Goel
-![Photo](/Users/aryangoel/Desktop/GitHub/Photo.jpg )
+![Photo](Photo.jpg )
 ***
        Hi, my name is Aryan Goel. I was born on 01.12.2002 in Bareilly,UP. Now, I am student of IIT GOA one of the most prestigeous college of India. I have many hobbies like playing able table tennis, reading books, doing coding and learning new computer softwares.
 ***
